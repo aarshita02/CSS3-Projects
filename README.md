@@ -13,3 +13,6 @@ Trying and testing out several features.
 ![](Clipping_Images/Preview1.JPG)
 ![](Clipping_Images/Preview2.JPG)
 ![](Clipping_Images/Preview3.JPG)
+<h2/>4. Broken Images </h2>
+
+![](Broken_Images/Demo.JPG)
